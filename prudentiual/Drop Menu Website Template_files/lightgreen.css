@@ -1,0 +1,208 @@
+BODY	{
+	scrollbar-base-color: #8AA4A2;
+	scrollbar-track-color: #AEAFBB;
+	backgroUnd-color: #FFFFFF;
+	}
+
+
+
+
+/* NON-MENU LINK COLORS */
+
+a:link, a:visited, a:active	{ color: #3366CC; text-decoration: none; }
+
+a:hover				{ color: #996600; text-decoration: none; }
+
+
+
+
+
+/* PAGE FONTS AND TITLES */
+
+/* THE NEXT LINE CONTROLS THE FONT SIZE ON ALL PAGES */
+
+TABLE		{ COLOR: #5A6F6D; FONT: 12px verdana, arial, sans-serif; }
+
+.title		{ COLOR: #8AA4A2; FONT: 18px verdana, arial, sans-serif; font-weight: bold; }
+
+.subtitle	{ COLOR: #8AA4A2; FONT: 14px verdana, arial, sans-serif; font-weight: bold; }
+
+.smalltitle 	{ COLOR: #000000; FONT: 13px verdana, arial, sans-serif; font-weight: bold; }
+
+.date-font	{ color: #FFFFFF; font: 10px verdana, arial, sans-serif; font-weight: bold; }
+
+
+
+
+/* HEADER BACKGROUND COLOR - edit the header.js also */
+
+.headercolor		{ background-color: #8AA4A2; }
+
+
+
+
+
+
+/* NON GALLERY IMAGE BORDERS */
+
+.borders		{ border: #000000 1px solid; }
+
+
+
+
+
+
+/* SHADOW AND CORNER IMAGE */
+
+#cornerimage		{ background-image: url("../picts/lightgreen/corner.gif"); }
+
+.pageheight		{ background-image: url("../picts/shadow-vertical.gif"); background-repeat: repeat-y; }
+
+.shadow-horizontal	{ background-image: url("../picts/shadow-horizontal.gif"); background-repeat: repeat-x; }
+
+
+
+
+
+
+/* PAGE LINES & BORDERS */
+
+.pagebars	{
+		background-color: #D3DDDD;
+		background-image: url("../picts/lightgreen/bar.jpg");
+		height: 20px;
+		border: solid #9FB9B7;
+		border-width: 1px 0px 1px 0px;
+		/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+		}
+
+.pagebar-bottom	{
+		background-color: #D3DDDD;
+		background-image: url("../picts/lightgreen/bar.jpg");
+		height: 30px;
+		border: solid #9FB9B7;
+		border-width: 1px 0px 1px 0px;
+		/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+		}
+
+.page-splits		{
+			border: #D4DFDF 1px solid;
+			background-color: #EEF4F3;
+			color: #EEF4F3;
+			}
+
+
+
+
+
+
+
+
+
+
+
+/* SCROLLER OPTIONS */
+
+
+
+.scroller-body		{
+			background-color: #FFFFFF;
+			background-image: url("../picts/lightgreen/background-scroller.jpg");
+			background-repeat: repeat-y;
+			}
+
+.scrollertitle 		{ color: #000000; font-family: arial, Tahoma, Verdana, sans-serif; font-size: 13px; font-weight: bold; }
+
+.scrollertext 		{ color: #5A6F6D; font-family: Tahoma, Verdana, sans-serif; font-size: 11px; font-weight: normal; }
+
+
+
+/* SCROLLER LINK COLORS */
+
+a.scroller:link, a.scroller:visited, a.scroller:active	{ color: #3366CC; text-decoration: none; }
+
+a.scroller:hover					{ color: #996600; text-decoration: none; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* LEFT SIDEBAR OPTIONS */
+
+.sidebar-background, .sidebar-background2
+			{
+			background-image: url("../picts/lightgreen/background-sidebar.gif");
+			background-color: #D1DADA;
+			background-repeat: repeat-y;
+			}
+
+.sideborder		{ BORDER: #8AA4A2 1px solid; }
+
+
+/* THE NEXT 2 LINES ARE NOT USED IN 2009 MODELS - FOR OLDER CHROME COMPATIBILITY */
+
+.sidebartitle		{ COLOR: #000000; FONT: 13px verdana, arial, sans-serif; font-weight: bold; }
+
+.sidebartext		{ COLOR: #5A6F6D; FONT: 12px arial, verdana,  sans-serif; font-weight: normal; }
+
+
+.sidebartitle-box	{
+		padding: 5px;
+		background-color: #8AA4A2;
+		background-image: url("../picts/lightgreen/background-sidebar-title.gif");
+		color: #FFFFFF;
+		font: bold 12px arial, verdana, sans-serif;
+		text-align: left;
+		border-top: #8AA4A2 1px solid;
+		border-bottom: #8AA4A2 1px solid;
+		border-left: #8AA4A2 1px solid;
+		border-right: #8AA4A2 1px solid;
+		}	
+
+.sidebartext-box	{
+		padding: 6px;
+		background-color: #E2E8E8;
+		color: #5A6F6D;
+		font: normal 11px arial, verdana, sans-serif;
+		text-align: left;
+		border-top: #8AA4A2 0px solid;
+		border-bottom: #8AA4A2 1px solid;
+		border-left: #8AA4A2 1px solid;
+		border-right: #8AA4A2 1px solid;
+		}
+
+a.sidelink:link, a.sidelink:visited, a.sidelink:active	{ color: #006699; text-decoration: none; }
+
+a.sidelink:hover					{ color: #996600; text-decoration: none; }
+
+
+
+
+
+
+
+
+
+
+/* FOR RIGHT SIDEBAR */
+
+.sidebartext-right	{ color: #000000; FONT: 11px arial, verdana,  sans-serif; font-weight: normal; }
+
+
+
+fieldset legend {
+		FONT: bold 13px arial, verdana, sans-serif;
+		COLOR: #8AA4A2;
+		border:1px solid #8AA4A2;
+		background-color: #FFFFFF;
+		}
+

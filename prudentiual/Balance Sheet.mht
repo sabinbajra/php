@@ -1,0 +1,1222 @@
+From: <Saved by Windows Internet Explorer 8>
+Subject: Balance Sheet
+Date: Wed, 24 Jun 2009 12:29:07 +0545
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01C9F4C7.5E9C9880"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C9F4C7.5E9C9880
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pbsl.com.np/bs.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns=3D"http://www.w3.org/TR/REC-html40" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:x =3D=20
+"urn:schemas-microsoft-com:office:excel"><HEAD><TITLE>Balance =
+Sheet</TITLE>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DProgId content=3DExcel.Sheet>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18702"><LINK =
+rel=3DFile-List=20
+href=3D"bs_files/filelist.xml"><LINK rel=3DEdit-Time-Data=20
+href=3D"bs_files/editdata.mso"><LINK rel=3DOLE-Object-Data=20
+href=3D"bs_files/oledata.mso"><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>ROBIN DEV PANT</o:LastAuthor>
+  <o:LastSaved>2009-02-09T05:54:04Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<STYLE>@page  {margin: 1.0in .75in 1.0in .75in; mso-header-margin: .5in; =
+mso-footer-margin: .5in; }
+TABLE {
+	mso-displayed-decimal-separator: "."; mso-displayed-thousand-separator: =
+","
+}
+TR {
+	mso-height-source: auto
+}
+COL {
+	mso-width-source: auto
+}
+BR {
+	mso-data-placement: same-cell
+}
+.style16 {
+	mso-number-format: "_(* #\'\'\,##0.00_);_(* \(#\'\'\,##0.00\);_(* =
+"-"??_);_(@_)"; mso-style-name: Comma; mso-style-id: 3
+}
+.style0 {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; FONT-STYLE: =
+normal; FONT-FAMILY: Arial; WHITE-SPACE: nowrap; COLOR: windowtext; =
+FONT-SIZE: 10pt; VERTICAL-ALIGN: bottom; BORDER-TOP: medium none; =
+FONT-WEIGHT: 400; BORDER-RIGHT: medium none; TEXT-DECORATION: none; =
+mso-number-format: General; mso-style-name: Normal; mso-style-id: 0; =
+mso-rotate: 0; mso-background-source: auto; mso-pattern: auto; =
+mso-generic-font-family: auto; mso-font-charset: 0; mso-protection: =
+locked visible
+}
+TD {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; FONT-STYLE: =
+normal; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; FONT-FAMILY: Arial; =
+WHITE-SPACE: nowrap; COLOR: windowtext; FONT-SIZE: 10pt; VERTICAL-ALIGN: =
+bottom; BORDER-TOP: medium none; FONT-WEIGHT: 400; BORDER-RIGHT: medium =
+none; TEXT-DECORATION: none; PADDING-TOP: 1px; mso-number-format: =
+General; mso-rotate: 0; mso-background-source: auto; mso-pattern: auto; =
+mso-generic-font-family: auto; mso-font-charset: 0; mso-protection: =
+locked visible; mso-style-parent: style0; mso-ignore: padding
+}
+.xl24 {
+	BACKGROUND: white; COLOR: black; mso-pattern: auto none; =
+mso-style-parent: style0
+}
+.xl25 {
+	TEXT-ALIGN: left; WHITE-SPACE: normal; BACKGROUND: white; COLOR: black; =
+VERTICAL-ALIGN: top; mso-pattern: auto none; mso-style-parent: style0
+}
+.xl26 {
+	TEXT-ALIGN: center; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+.xl27 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+.xl28 {
+	TEXT-ALIGN: center; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-number-format: "Short Date"; =
+mso-pattern: auto none; mso-font-charset: 0; mso-style-parent: style0
+}
+.xl29 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-number-format: "Short Date"; =
+mso-pattern: auto none; mso-font-charset: 0; mso-style-parent: style0
+}
+.xl30 {
+	TEXT-ALIGN: left; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: #ffcc99; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+.xl31 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: #ffcc99; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-number-format: "#,##0"; =
+mso-pattern: auto none; mso-font-charset: 0; mso-style-parent: style0
+}
+.xl32 {
+	TEXT-ALIGN: left; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; mso-pattern: auto none; mso-font-charset: 0; =
+mso-style-parent: style0
+}
+.xl33 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; mso-number-format: "#,##0"; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+.xl34 {
+	BACKGROUND: white; COLOR: black; mso-number-format: "#,##0"; =
+mso-pattern: auto none; mso-style-parent: style0
+}
+.xl35 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; mso-number-format: "_(* #\'\'\,##0.00_);_(* =
+\(#\'\'\,##0.00\);_(* "-"??_);_(@_)"; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style16
+}
+.xl36 {
+	TEXT-ALIGN: right; WHITE-SPACE: normal; BACKGROUND: #ffcc99; COLOR: =
+black; VERTICAL-ALIGN: top; mso-pattern: auto none; mso-style-parent: =
+style0
+}
+.xl37 {
+	TEXT-ALIGN: left; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: #003366; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+.xl38 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: #003366; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-number-format: "#,##0"; =
+mso-pattern: auto none; mso-font-charset: 0; mso-style-parent: style0
+}
+.xl39 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-number-format: Percent; =
+mso-pattern: auto none; mso-font-charset: 0; mso-style-parent: style0
+}
+.xl40 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-number-format: Percent; =
+mso-pattern: auto none; mso-font-charset: 0; mso-style-parent: style16
+}
+.xl41 {
+	WHITE-SPACE: normal; BACKGROUND: white; COLOR: black; mso-pattern: auto =
+none; mso-style-parent: style0
+}
+.xl42 {
+	TEXT-ALIGN: center; FONT-STYLE: italic; FONT-FAMILY: Arial, sans-serif; =
+WHITE-SPACE: normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 12pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+.xl43 {
+	TEXT-ALIGN: center; FONT-STYLE: italic; FONT-FAMILY: Arial, sans-serif; =
+WHITE-SPACE: normal; BACKGROUND: white; COLOR: black; VERTICAL-ALIGN: =
+top; FONT-WEIGHT: 700; mso-pattern: auto none; mso-font-charset: 0; =
+mso-style-parent: style0
+}
+.xl44 {
+	TEXT-ALIGN: center; FONT-STYLE: italic; FONT-FAMILY: Verdana, =
+sans-serif; WHITE-SPACE: normal; BACKGROUND: white; COLOR: black; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+.xl45 {
+	TEXT-ALIGN: right; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: silver; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+.xl46 {
+	TEXT-ALIGN: left; FONT-FAMILY: Verdana, sans-serif; WHITE-SPACE: =
+normal; BACKGROUND: white; COLOR: black; FONT-SIZE: 7.5pt; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: 700; mso-pattern: auto none; =
+mso-font-charset: 0; mso-style-parent: style0
+}
+</STYLE>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>bs</x:Name>
+    <x:WorksheetOptions>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:TopRowVisible>1</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>11</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8190</x:WindowHeight>
+  <x:WindowWidth>19035</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>15</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+<SCRIPT language=3DJavaScript>
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init=3D=3Dtrue) with (navigator) {if =
+((appName=3D=3D"Netscape")&&(parseInt(appVersion)=3D=3D4)) {
+    document.MM_pgW=3DinnerWidth; document.MM_pgH=3DinnerHeight; =
+onresize=3DMM_reloadPage; }}
+  else if (innerWidth!=3Ddocument.MM_pgW || =
+innerHeight!=3Ddocument.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dxl24 link=3Dblue vLink=3Dpurple>
+<TABLE style=3D"WIDTH: 662pt; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: =
+fixed"=20
+border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D882 x:str>
+  <COLGROUP>
+  <COL style=3D"WIDTH: 48pt" class=3Dxl24 width=3D64>
+  <COL style=3D"WIDTH: 18pt; mso-width-source: userset; mso-width-alt: =
+877"=20
+  class=3Dxl24 width=3D24>
+  <COL style=3D"WIDTH: 239pt; mso-width-source: userset; mso-width-alt: =
+11666"=20
+  class=3Dxl24 width=3D319>
+  <COL style=3D"WIDTH: 56pt; mso-width-source: userset; mso-width-alt: =
+2706"=20
+  class=3Dxl24 width=3D74>
+  <COL style=3D"WIDTH: 73pt; mso-width-source: userset; mso-width-alt: =
+3547"=20
+  class=3Dxl24 width=3D97>
+  <COL style=3D"WIDTH: 84pt; mso-width-source: userset; mso-width-alt: =
+4096"=20
+  class=3Dxl24 width=3D112>
+  <COL style=3D"WIDTH: 48pt" class=3Dxl24 span=3D3 width=3D64>
+  <TBODY>
+  <TR style=3D"HEIGHT: 15pt; mso-height-source: userset" height=3D20>
+    <TD style=3D"WIDTH: 518pt; HEIGHT: 15pt" class=3Dxl42 height=3D20=20
+    background=3Dhttp://pbsl.com.np/buttons/stripradiant.gif width=3D690 =
+colSpan=3D6=20
+    x:str=3D"BALANCE SHEET ">BALANCE SHEET<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 48pt" class=3Dxl24 width=3D64>&nbsp;</TD>
+    <TD style=3D"WIDTH: 48pt" class=3Dxl24 width=3D64>&nbsp;</TD>
+    <TD style=3D"WIDTH: 48pt" class=3Dxl24 width=3D64>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt; mso-height-source: userset" height=3D17>
+    <TD style=3D"WIDTH: 48pt; HEIGHT: 665.25pt" class=3Dxl25 =
+height=3D887 rowSpan=3D51=20
+    width=3D64>&nbsp;</TD>
+    <TD style=3D"WIDTH: 470pt" class=3Dxl43 width=3D626 =
+colSpan=3D5>Unaudited=20
+      Financial Results (Quarterly)</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt; mso-height-source: userset" height=3D17>
+    <TD style=3D"WIDTH: 470pt; HEIGHT: 12.75pt" class=3Dxl44 height=3D17 =
+width=3D626=20
+    colSpan=3D5>As at Second Quarter of the Fiscal Year 2065/2066</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 470pt; HEIGHT: 12.75pt" class=3Dxl45 height=3D17 =
+
+    borderColor=3D#ffffff width=3D626 colSpan=3D5>Rs. in '000</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 27pt" height=3D36>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 51pt" class=3Dxl46 height=3D68 =
+rowSpan=3D3=20
+    width=3D24>SN</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl46 rowSpan=3D3 =
+width=3D319>Particulars</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl26 width=3D74=20
+      x:str=3D"This&nbsp; Quarter ">This&nbsp; Quarter<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl27 width=3D97=20
+      x:str=3D"Previous Quarter ">Previous Quarter<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl27 width=3D112=20
+    x:str=3D"Previous Year's&nbsp;&#10;Corresponding &#10;Quarter =
+">Previous=20
+      Year's&nbsp;<BR>Corresponding <BR>Quarter<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt; mso-height-source: userset" height=3D17>
+    <TD style=3D"WIDTH: 56pt; HEIGHT: 12.75pt" class=3Dxl28 height=3D17 =
+width=3D74=20
+    x:num=3D"60539">9/29/2065</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl29 width=3D97 =
+x:num=3D"60448">6/30/2065</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl29 width=3D112 =
+x:num=3D"60175">9/30/2064</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 11.25pt; mso-height-source: userset" height=3D15>
+    <TD style=3D"HEIGHT: 11.25pt" class=3Dxl28 height=3D15>&nbsp;</TD>
+    <TD class=3Dxl29>&nbsp;</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl27 width=3D112=20
+      x:str=3D"(Audited) ">(Audited)<SPAN=20
+    style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl30 height=3D17 =
+width=3D24=20
+      x:num>1</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl30 width=3D319>Total Capital =
+and=20
+      Liabilities (1.1 to 1.7)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl31 width=3D74 =
+x:num=3D"706551.11789999995"=20
+    x:fmla=3D"=3DD9+D10+D11+D12+D13+D16+D17">706,551</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl31 width=3D97 x:num=3D"673249"=20
+    x:fmla=3D"=3DE9+E10+E11+E12+E13+E16+E17">673,249</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl31 width=3D112 =
+x:num=3D"462043.4185400001"=20
+    x:fmla=3D"=3DF9+F10+F11+F12+F13+F16+F17">462,043</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>1.1</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Paid up =
+Capital</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74 =
+x:num=3D"100000">100,000</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"100000">100,000</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"50000">50,000</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>1.2</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Reserve and =
+Surplus</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74 =
+x:num=3D"13060.81178">13,061</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"16245">16,245</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112=20
+      x:num=3D"19196.077740000001">19,196</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D2>&nbsp;</TD>
+    <TD class=3Dxl34>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>1.3</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Debenture and =
+Bond</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>1.4</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Borrowing</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74 =
+x:num=3D"80000">80,000</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"45000">45,000</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"10000">10,000</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>1.5</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Deposits =
+(a+b)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"461456.04576999997">461,456</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 x:num=3D"423571"=20
+      x:fmla=3D"=3DE14+E15">423,571</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"359038.14302999998"=20
+    x:fmla=3D"=3DF14+F15">359,038</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl32 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>a. Domestic =
+Currency</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"461456.04576999997">461,456</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"423571">423,571</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112=20
+      x:num=3D"359038.14302999998">359,038</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl32 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>b. Foreign =
+Currency</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>1.6</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Income Tax =
+Liability</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>1.7</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319=20
+      x:str=3D"Other Liabilities ">Other Liabilities<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"52034.260350000004">52,034</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"88433">88,433</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112=20
+      x:num=3D"23809.197770000057">23,809</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl30 height=3D17 =
+width=3D24=20
+      x:num>2</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl30 width=3D319>Assets (2.1 to =
+2.7)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl31 width=3D74 =
+x:num=3D"706550.61790000007"=20
+    x:fmla=3D"=3DSUM(D19:D25)">706,551</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl31 width=3D97 x:num=3D"673249"=20
+    x:fmla=3D"=3DSUM(E19:E25)">673,249</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl31 width=3D112 =
+x:num=3D"462043.41853999998"=20
+    x:fmla=3D"=3DSUM(F19:F25)">462,043</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>2.1</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Cash and Bank =
+Balance</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+x:num=3D"111101.10919">111,101</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"105146">105,146</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112=20
+      x:num=3D"50214.474029999998">50,214</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>2.2</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Money at Call =
+and Short=20
+      Notice</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>2.3</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Investments</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74 =
+x:num=3D"108101.55">108,102</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"93102">93,102</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"85000">85,000</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>2.4</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Loan and =
+Advances</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"458725.02843000001">458,725</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"457591">457,591</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112=20
+    x:num=3D"300408.54157">300,409</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>2.5</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319 x:str=3D"Fixed =
+Assets ">Fixed=20
+      Assets<SPAN style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"8159.1725999999999">8,159</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"6218">6,218</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"4412.28514">4,412</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>2.6</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Non Banking =
+Assets</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>2.7</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319 x:str=3D"Other =
+Assets ">Other=20
+      Assets<SPAN style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"20463.757679999999">20,464</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"11192">11,192</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"22008.1178">22,008</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl30 height=3D17 =
+width=3D24=20
+      x:num>3</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl30 width=3D319>Profit and Loss =
+Account</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl36 =
+colSpan=3D3>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.1</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319=20
+      x:str=3D"Interest Income ">Interest Income<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"33861.362939999999">33,861</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"12547">12,547</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"23730.85195">23,731</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.2</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319=20
+      x:str=3D"Interest Expenses ">Interest Expenses<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"18030.413579999997">18,030</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"8336">8,336</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"14389.80575">14,390</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl32 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl37 width=3D319>A. Net Interest =
+Income=20
+      (3.1-3.2)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl38 width=3D74 =
+x:num=3D"15830.949360000002"=20
+    x:fmla=3D"=3DD27-D28">15,831</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl38 width=3D97 x:num=3D"4211"=20
+      x:fmla=3D"=3DE27-E28">4,211</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl38 width=3D112 =
+x:num=3D"9341.0462000000007"=20
+    x:fmla=3D"=3DF27-F28">9,341</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.3</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Fees, Commission =
+and=20
+    Discount</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"1020.8251199999999">1,021</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 x:num>73</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"1425">1,425</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.4</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Other Operating =
+Income</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74 =
+x:num=3D"2060.37">2,060</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"1388">1,388</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"1232">1,232</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.5</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Foreign Exchange =
+Gain/Loss=20
+      (Net)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl32 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl37 width=3D319>B. Total =
+Operating Income=20
+      (A+3.3+3.4+3.5)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl38 width=3D74 =
+x:num=3D"18912.144480000003"=20
+    x:fmla=3D"=3DSUM(D30:D32)+D29">18,912</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl38 width=3D97 x:num=3D"5672"=20
+    x:fmla=3D"=3DSUM(E30:E32)+E29">5,672</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl38 width=3D112 =
+x:num=3D"11998.046200000001"=20
+    x:fmla=3D"=3DSUM(F30:F32)+F29">11,998</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.6</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319=20
+      x:str=3D"Staff Expenses ">Staff Expenses<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"2356.7200600000001">2,357</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"1217">1,217</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"1655.00109">1,655</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.7</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Other Operating =
+Expenses</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74=20
+      x:num=3D"2936.3451600000008">2,936</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"1380">1,380</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112=20
+      x:num=3D"1876.329020000001">1,876</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl32 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl37 width=3D319>C. Operating =
+Profit Before=20
+      Provision (B-3.6-3.7)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl38 width=3D74 =
+x:num=3D"13619.079260000002"=20
+    x:fmla=3D"=3DD33-(D35+D34)">13,619</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl38 width=3D97 x:num=3D"3075"=20
+    x:fmla=3D"=3DE33-(E35+E34)">3,075</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl38 width=3D112 =
+x:num=3D"8466.7160899999999"=20
+    x:fmla=3D"=3DF33-(F35+F34)">8,467</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.8</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Provision for =
+Possible=20
+    Losses</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74 =
+x:num=3D"10111.478219999999"=20
+    x:fmla=3D"=3D+(720465.35+7271012.87+2120000)/1000">10,111</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl33 width=3D97 =
+x:num=3D"5326">5,326</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl33 width=3D112 =
+x:num=3D"1643.38275">1,643</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl32 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl37 width=3D319>D. Operating =
+Profit=20
+    (C-3.8)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl38 width=3D74 =
+x:num=3D"3507.6010400000032"=20
+    x:fmla=3D"=3DD36-D37">3,508</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl38 width=3D97 x:num=3D"-2251"=20
+      x:fmla=3D"=3DE36-E37">-2,251</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl38 width=3D112 =
+x:num=3D"6823.3333400000001"=20
+    x:fmla=3D"=3DF36-F37">6,823</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D24=20
+      x:num>3.9</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Non Operating=20
+      Income/Expenses (Net)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 91.5pt" class=3Dxl32 height=3D122 =
+rowSpan=3D7=20
+    width=3D24 x:num>3.1</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Write Back of =
+Provision for=20
+      Possible Loss</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl33 width=3D74 x:num>130</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 239pt; HEIGHT: 12.75pt" class=3Dxl37 height=3D17 =
+
+      width=3D319>E. Profit from Regular Activities (D+3.9+3.10)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl38 width=3D74 =
+x:num=3D"3637.6010400000032"=20
+    x:fmla=3D"=3DSUM(D39:D40)+D38">3,638</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl38 width=3D97 x:num=3D"-2251"=20
+    x:fmla=3D"=3DSUM(E39:E40)+E38">-2,251</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl38 width=3D112 =
+x:num=3D"6823.3333400000001"=20
+    x:fmla=3D"=3DSUM(F39:F40)+F38">6,823</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 239pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+
+      width=3D319>Extraordinary Income/Expenses (Net)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 239pt; HEIGHT: 12.75pt" class=3Dxl37 height=3D17 =
+
+      width=3D319>F. Profit Before Bonus and Taxes (E+3.11)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl38 width=3D74 =
+x:num=3D"3637.6010400000032"=20
+    x:fmla=3D"=3DD42+D41">3,638</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl38 width=3D97 x:num=3D"-2251"=20
+      x:fmla=3D"=3DE42+E41">-2,251</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl38 width=3D112 =
+x:num=3D"6823.3333400000001"=20
+    x:fmla=3D"=3DF42+F41">6,823</TD>
+    <TD class=3Dxl24>&nbsp;</TD>
+    <TD class=3Dxl38>&nbsp;</TD>
+    <TD class=3Dxl24>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 239pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+
+      width=3D319>Provision for Staff Bonus&nbsp;</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 15pt; mso-height-source: userset" height=3D20>
+    <TD style=3D"WIDTH: 239pt; HEIGHT: 15pt" class=3Dxl32 height=3D20=20
+      width=3D319>Provision for Tax</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl35 width=3D74 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl35 width=3D97 x:num=3D"0"><SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl35 width=3D112 x:num=3D"0"><SPAN =
+
+      style=3D"mso-spacerun: =
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=20
+      </SPAN>-<SPAN style=3D"mso-spacerun: yes">&nbsp;&nbsp; =
+</SPAN></TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 239pt; HEIGHT: 12.75pt" class=3Dxl37 height=3D17 =
+
+      width=3D319><SPAN style=3D"mso-spacerun: yes">&nbsp;</SPAN>G. Net=20
+      Profit/(Loss) (F-3.12-3.13)</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl38 width=3D74 =
+x:num=3D"3637.6010400000032"=20
+    x:fmla=3D"=3DD43-SUM(D44:D45)">3,638</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl38 width=3D97 x:num=3D"-2251"=20
+    x:fmla=3D"=3DE43-SUM(E44:E45)">-2,251</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl38 width=3D112 =
+x:num=3D"6823.3333400000001"=20
+    x:fmla=3D"=3DF43-SUM(F44:F45)">6,823</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 257pt; HEIGHT: 12.75pt" class=3Dxl30 height=3D17 =
+width=3D343=20
+    =
+colSpan=3D2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;=20
+      Ratios</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl36 =
+colSpan=3D3>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 18pt; HEIGHT: 38.25pt" class=3Dxl25 height=3D51 =
+rowSpan=3D3=20
+    width=3D24>&nbsp;</TD>
+    <TD style=3D"WIDTH: 239pt" class=3Dxl32 width=3D319>Capital Fund to =
+RWA</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl39 width=3D74 =
+x:num=3D"0.2273">22.73%</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl39 width=3D97 =
+x:num=3D"0.2326">23.26%</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl39 width=3D112=20
+      x:num=3D"0.20580000000000001">20.58%</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 239pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+width=3D319=20
+    x:str=3D"Non performing Loan (NPL) to Total Loan ">Non performing =
+Loan (NPL)=20
+      to Total Loan<SPAN style=3D"mso-spacerun: yes">&nbsp;</SPAN></TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl39 width=3D74=20
+      x:num=3D"2.4799999999999999E-2">2.48%</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl39 width=3D97 =
+x:num=3D"2.07E-2">2.07%</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl40 width=3D112=20
+      x:num=3D"1.1299999999999999E-2">1.13%</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"WIDTH: 239pt; HEIGHT: 12.75pt" class=3Dxl32 height=3D17 =
+
+      width=3D319>Toal Loan Loss Provision to Total NPL</TD>
+    <TD style=3D"WIDTH: 56pt" class=3Dxl39 width=3D74 =
+x:num=3D"1.3928">139.28%</TD>
+    <TD style=3D"WIDTH: 73pt" class=3Dxl39 width=3D97 =
+x:num=3D"1.4072">140.72%</TD>
+    <TD style=3D"WIDTH: 84pt" class=3Dxl39 width=3D112=20
+      x:num=3D"2.0619999999999998">206.20%</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt; mso-ignore: colspan" class=3Dxl41 =
+height=3D17=20
+    colSpan=3D2>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D6>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt; mso-ignore: colspan" class=3Dxl41 =
+height=3D17=20
+    colSpan=3D2>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D6>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl25 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 470pt" class=3Dxl25 width=3D626 =
+colSpan=3D5>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl25 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 470pt" class=3Dxl25 width=3D626 =
+colSpan=3D5>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl25 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 470pt" class=3Dxl25 width=3D626 =
+colSpan=3D5>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl25 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 470pt" class=3Dxl25 width=3D626 =
+colSpan=3D5>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR>
+  <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+    <TD style=3D"HEIGHT: 12.75pt" class=3Dxl25 height=3D17>&nbsp;</TD>
+    <TD style=3D"WIDTH: 470pt" class=3Dxl25 width=3D626 =
+colSpan=3D5>&nbsp;</TD>
+    <TD style=3D"mso-ignore: colspan" class=3Dxl24 =
+colSpan=3D3>&nbsp;</TD></TR><![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D24 style=3D'width:18pt'></td>
+  <td width=3D319 style=3D'width:239pt'></td>
+  <td width=3D74 style=3D'width:56pt'></td>
+  <td width=3D97 style=3D'width:73pt'></td>
+  <td width=3D112 style=3D'width:84pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01C9F4C7.5E9C9880
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://pbsl.com.np/buttons/stripradiant.gif
+
+R0lGODlhigISALMAAAAAAP///463saO9tNbWxe3k1P327vvUrfzewPzq1//8+QAAAAAAAAAAAAAA
+AAAAACwAAAAAigISAAAE/1DISaulw+jNTfofIiJgaZ5oqq6s171w/Cp0bd94Hux87/87WiBHLNZk
+yOSGxWw6n4mRdEqtWq2HrHbL7Xq/4LB4TC6bz+i0Wmwwut/wuLx4qVcGhEKyRIX6/04uSoMdc29A
+iIlDQYZFhI9LgJKTfFeWl5hrmpucnZ6foGMJjaSlpjh2FwMDekgmV5SxlJCQpzZBirk8tjdttISy
+wVCYxMVTocjJysvMZ6O80NFEqRgZriDEwtqBv0rSQrq6CkPR3YPb6CrG65fN7u/w8WsI3/XS1BLW
+Mtjr6f4l5gZ9CxdOWsBz//6xW4hFnsOHEOHZm2iLGqt9IRiSSJjuIJJ6BP8V2fOIkWM6jShFRFzJ
+suUmijBJpSIgqENGjSb9kYwBMmSucjtf5PSXUqPLo0iTeonJVE6dizU1RCkqYui2oIXaQFvkE9E4
+aL6wcrC6jepCpWjTsmzK1o2qsUvMViWrTSyHgV29frMbie4kuUbVCh7MTGvbwzbutFriYSrgjX4l
+RcUqLW+ir0D5Ro712NgBlYRDi+b0DLFpDAmEOga8WRZfDZUt9xhHDuzr1pw7ZxrNuzea0qYPTxiQ
+WqhuyLgBvTZsSzaQGrVPLU8u6fhu39izd6EXHHG+4jatU5f8Oho557PLKdA8/o/169rjY+/uXcDi
+se/b+1mOl7ZzzLZopVmBY/ox8V478iXoG33C6YPfgQVyw5c96NFm0G0RGrjagcco6KFoDLYFVQcc
+ZtgEf5X5JxuAAa7HnokGcngMAh/WKFiIbI24gYzIwXjCcsw1hx5XLJoCpI8r8DijjUwqFSSO9tBE
+YolIrjAhbLwMuUt0vExX5QkkKClFk2QeBRyU9kQAADs=
+
+------=_NextPart_000_0000_01C9F4C7.5E9C9880--

@@ -1,0 +1,229 @@
+-- phpMyAdmin SQL Dump
+-- version 2.9.1.1
+-- http://www.phpmyadmin.net
+-- 
+-- Host: localhost
+-- Generation Time: Jun 25, 2009 at 12:11 PM
+-- Server version: 5.0.27
+-- PHP Version: 5.2.0
+-- 
+-- Database: `prudential`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_admin`
+-- 
+
+CREATE TABLE `tbl_admin` (
+  `admin_id` int(10) NOT NULL auto_increment,
+  `username` varchar(50) collate latin1_general_ci NOT NULL,
+  `password` varchar(50) collate latin1_general_ci NOT NULL,
+  PRIMARY KEY  (`admin_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=2 ;
+
+-- 
+-- Dumping data for table `tbl_admin`
+-- 
+
+INSERT INTO `tbl_admin` VALUES (1, 'admin', 'admin');
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_bod`
+-- 
+
+CREATE TABLE `tbl_bod` (
+  `bod_id` int(10) NOT NULL auto_increment,
+  `Name` varchar(50) collate latin1_general_ci NOT NULL,
+  `IMG` varchar(500) collate latin1_general_ci NOT NULL,
+  `Post` varchar(100) collate latin1_general_ci NOT NULL,
+  `Company` varchar(200) collate latin1_general_ci NOT NULL,
+  `electfrom` varchar(50) collate latin1_general_ci NOT NULL,
+  PRIMARY KEY  (`bod_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=33 ;
+
+-- 
+-- Dumping data for table `tbl_bod`
+-- 
+
+INSERT INTO `tbl_bod` VALUES (32, 'asdf', 'plan_box.jpg', 'asdf', 'dsafasdf', 'asdfsadf');
+INSERT INTO `tbl_bod` VALUES (31, 'sabin', 'C1004_Ramesh.doc', 'director', 'asdflkj', 'adsflkj');
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_fixed_deposit`
+-- 
+
+CREATE TABLE `tbl_fixed_deposit` (
+  `fd_id` int(10) NOT NULL auto_increment,
+  `saving_id` int(10) NOT NULL,
+  `duration` varchar(100) collate latin1_general_ci NOT NULL,
+  `monthlyIR` varchar(100) collate latin1_general_ci NOT NULL,
+  `quaterlyIR` varchar(100) collate latin1_general_ci NOT NULL,
+  `semiyearlyIR` varchar(100) collate latin1_general_ci NOT NULL,
+  `yearly` varchar(100) collate latin1_general_ci NOT NULL,
+  `cummulative` varchar(100) collate latin1_general_ci NOT NULL,
+  PRIMARY KEY  (`fd_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=2 ;
+
+-- 
+-- Dumping data for table `tbl_fixed_deposit`
+-- 
+
+INSERT INTO `tbl_fixed_deposit` VALUES (1, 2, '6mth', '2', '3', '4', '5', '6');
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_loan`
+-- 
+
+CREATE TABLE `tbl_loan` (
+  `loan_id` int(10) NOT NULL auto_increment,
+  `Name` varchar(100) collate latin1_general_ci NOT NULL,
+  `Description` varchar(2000) collate latin1_general_ci NOT NULL,
+  PRIMARY KEY  (`loan_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=11 ;
+
+-- 
+-- Dumping data for table `tbl_loan`
+-- 
+
+INSERT INTO `tbl_loan` VALUES (1, 'Hire Purchase Loan', 'dsafasdfsadf asdfsdafsdaf sadfasdfasdf sadf asd');
+INSERT INTO `tbl_loan` VALUES (2, 'Term Loan', 'qerqwerwqerwqerwqe qwerwqe weqwq qwr rwqer wqer weqrweq');
+INSERT INTO `tbl_loan` VALUES (3, 'Industrial Loan', 'uop uopi upo poiu poiu oiupo uopi uopi upou pou opu ');
+INSERT INTO `tbl_loan` VALUES (4, 'Fixed Deposit Loan', 'jljljlkj lkj ljlj lkj;lkj;lkjl;kjl; j;ljlkjl jljlkjl; jljlj');
+INSERT INTO `tbl_loan` VALUES (5, 'Loan Against Shares', 'jgkjgjgjhg jkgk jgjkg jg jkgkj gjh gg hgghgjhjjhgjg');
+INSERT INTO `tbl_loan` VALUES (6, 'Housing Loan', '877978 77 7 987 87 78 7 7 797 7777 87');
+INSERT INTO `tbl_loan` VALUES (7, 'Contractor Loan', 'alsdkfjalsdjflasdjf asdflkja;sdfasldkjf asdlfkj');
+INSERT INTO `tbl_loan` VALUES (8, 'Home Loan', 'dherai byaj lagcha yesma');
+INSERT INTO `tbl_loan` VALUES (9, 'Educational Loan', 'Kaam chaina al;djf;lasdj sadflkjsadflsadjf asdflkjasdf');
+INSERT INTO `tbl_loan` VALUES (10, 'Real Estate Loan', 'united state lona kina chaina');
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_loan_services`
+-- 
+
+CREATE TABLE `tbl_loan_services` (
+  `loans_id` int(10) NOT NULL auto_increment,
+  `loan_id` int(10) NOT NULL,
+  `description` varchar(500) collate latin1_general_ci NOT NULL,
+  `rate` varchar(100) collate latin1_general_ci NOT NULL,
+  PRIMARY KEY  (`loans_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=12 ;
+
+-- 
+-- Dumping data for table `tbl_loan_services`
+-- 
+
+INSERT INTO `tbl_loan_services` VALUES (1, 1, 'Truck, Bus, Microbus, Jeep, Tractor, Power Tiller, Dozer, etc (New Models)', '13');
+INSERT INTO `tbl_loan_services` VALUES (2, 1, 'Truck, Bus, Microbus, Jeep, Tractor, Power Tiller, Dozer, etc (Old Models)', '14');
+INSERT INTO `tbl_loan_services` VALUES (3, 1, 'Household Appliances and Machines (Photocopy Machine, Fax, Computer and other appliances)', '14.5');
+INSERT INTO `tbl_loan_services` VALUES (4, 2, 'Agriculture Loans, as well as, Loans Related to its Activity', '11');
+INSERT INTO `tbl_loan_services` VALUES (5, 2, 'Industrial Loans to Operate Industries', '12');
+INSERT INTO `tbl_loan_services` VALUES (6, 2, 'Business Loans to Operate Businesses', '12');
+INSERT INTO `tbl_loan_services` VALUES (7, 2, 'Education Loans (Domestic or Foreign study Loans)', '14');
+INSERT INTO `tbl_loan_services` VALUES (8, 2, 'Health Loans (Nursing Homes, Hospitals, Polyclinics)', '14.5');
+INSERT INTO `tbl_loan_services` VALUES (9, 2, 'Toursism Loans', '14.5');
+INSERT INTO `tbl_loan_services` VALUES (10, 2, 'Hydro Power Loans', '14.5');
+INSERT INTO `tbl_loan_services` VALUES (11, 2, 'Others (Wholesale, Retail Markets or Service Professions, Foreign Employment, Pasni, Marriage and Social Activities, Medical Treatment, etc)', '14.5');
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_mgmt`
+-- 
+
+CREATE TABLE `tbl_mgmt` (
+  `mgmt_id` int(10) NOT NULL auto_increment,
+  `Name` varchar(100) collate latin1_general_ci NOT NULL,
+  `Post` varchar(100) collate latin1_general_ci NOT NULL,
+  PRIMARY KEY  (`mgmt_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=47 ;
+
+-- 
+-- Dumping data for table `tbl_mgmt`
+-- 
+
+INSERT INTO `tbl_mgmt` VALUES (17, 'chudamani bajracharya', 'principal');
+INSERT INTO `tbl_mgmt` VALUES (18, 'rabin ', 'director');
+INSERT INTO `tbl_mgmt` VALUES (14, 'sabin', 'diretor');
+INSERT INTO `tbl_mgmt` VALUES (19, 'ramesh pandey', 'manager');
+INSERT INTO `tbl_mgmt` VALUES (20, 'rubin kakshyaati', 'store keeper');
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_promoter`
+-- 
+
+CREATE TABLE `tbl_promoter` (
+  `promo_id` int(10) NOT NULL auto_increment,
+  `Name` varchar(100) collate latin1_general_ci NOT NULL,
+  `Address` varchar(100) collate latin1_general_ci NOT NULL,
+  PRIMARY KEY  (`promo_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=4 ;
+
+-- 
+-- Dumping data for table `tbl_promoter`
+-- 
+
+INSERT INTO `tbl_promoter` VALUES (1, 'Rabin', 'Kilagak');
+INSERT INTO `tbl_promoter` VALUES (2, 'asdf', 'adsfsdf');
+INSERT INTO `tbl_promoter` VALUES (3, 'dsaffasdfsdf', 'asdfasdfasdfadfsad');
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_savings`
+-- 
+
+CREATE TABLE `tbl_savings` (
+  `saving_id` int(10) NOT NULL,
+  `Type` varchar(200) collate latin1_general_ci NOT NULL,
+  `Description` varchar(500) collate latin1_general_ci NOT NULL,
+  `service-id` int(10) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci;
+
+-- 
+-- Dumping data for table `tbl_savings`
+-- 
+
+INSERT INTO `tbl_savings` VALUES (6, 'Privilege Saving Accounts ', 'Keeping Windows and Internet Explorer up to date is one of the best ways to prevent trouble online. Microsoft issues updates periodically which can help prevent online ', 1);
+INSERT INTO `tbl_savings` VALUES (4, 'Prudential Certificate of Deposit', 'When things don''t work out with a website, and a tab crashes, Internet Explorer''s crash recovery now automatically closes and attempts to recover the tab without affecting other open tabs. ', 1);
+INSERT INTO `tbl_savings` VALUES (5, 'Call Deposit', 'While developers are busy updating their websites for Internet Explorer 8, you can click the Compatibility View ', 1);
+INSERT INTO `tbl_savings` VALUES (2, 'Term (Fixed) Deposit', 'Here are some ways that Internet Explorer makes browsing the web easier, safer, and more enjoyable.', 1);
+INSERT INTO `tbl_savings` VALUES (3, 'Prudential Insurance Savings Account', 'The new Safety button on the Internet Explorer Command bar brings together security and privacy features such as Windows Update, SmartScreen Filter, and InPrivate Browsing in one place. If the Safety button isn''t showing, see Customize the Internet Explorer toolbars. ', 1);
+INSERT INTO `tbl_savings` VALUES (1, 'Saving Deposit', 'With an Internet connection and Internet Explorer, you can find and view information about anything on the web. Just click the topics below to get started.', 1);
+INSERT INTO `tbl_savings` VALUES (7, 'Premiere Saving Accounts', 'Windows users can run a web server on their local computer by installing IIS. This web server may already be installed on your system. Check your folder structure to see if it contains a C:\\Inetpub or ', 1);
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `tbl_services`
+-- 
+
+CREATE TABLE `tbl_services` (
+  `savin_id` int(10) NOT NULL auto_increment,
+  `save_type` varchar(200) collate latin1_general_ci NOT NULL,
+  `description` varchar(1000) collate latin1_general_ci NOT NULL,
+  PRIMARY KEY  (`savin_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=8 ;
+
+-- 
+-- Dumping data for table `tbl_services`
+-- 
+
+INSERT INTO `tbl_services` VALUES (1, 'Deposit Collection', 'This chapter describes how to configure your system to build web applications in Macromedia Dreamweaver 8.  ');
+INSERT INTO `tbl_services` VALUES (2, 'Loans and Advances', 'Loan is a very good thing ha ha ha.');
+INSERT INTO `tbl_services` VALUES (3, 'consortium Loans through negotiations', 'hello frendd consortium ha ha ha.');
+INSERT INTO `tbl_services` VALUES (4, 'Share Loan', 'Primary Share Loan Purcahse');
+INSERT INTO `tbl_services` VALUES (5, 'Issue of Bank Guarantee', 'To use a database with a Microsoft Active Server Pages (ASP) application, you need to create a database connection in Macromedia Dreamweaver 8. This chapter describes how to create the database connection.  ');
+INSERT INTO `tbl_services` VALUES (6, 'Merchant Banking', 'Dreamweaver is good.');
+INSERT INTO `tbl_services` VALUES (7, 'Additional Services as per Client Requiredments', 'With an Internet connection and Internet Explorer, you can find and view information about anything on the web. Just click the topics below to get started.');
