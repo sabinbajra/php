@@ -1,0 +1,2 @@
+<P>MIS (Management Information System)<BR><BR>An organization requires the reliable source of data for its sound running. The information will be reliable only when they are properly managed. For that MIS is require. What exactly the MIS is ? <BR><BR>Management Information System (MIS) is defined as the system which provides information to the management on the regular basis in the right form to facilitate the decision making. It is combination of data and resources that stores and retrieves, transforms, disseminates information in an organization. </P>
+<P></P>
